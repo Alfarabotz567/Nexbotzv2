@@ -28,6 +28,6 @@ handler.command = /^play2?$/i
 handler.exp = 0
 handler.limit = true
 handler.register = true
-handler.level = 20
+handler.level = 11
 
 export default handler
