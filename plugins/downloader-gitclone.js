@@ -13,6 +13,6 @@ handler.tags = ['downloader']
 handler.command = /gitclone/i
 
 handler.limit = true
-handler.level = 30
+handler.level = 8
 
 export default handler
