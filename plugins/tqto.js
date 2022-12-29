@@ -12,7 +12,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 let cap = `*BIG THANKS TO*
     
 Terutama Terimakasih Teruntuk:
-➸ @${'628812743180'.split('@')[0]}
+➸ @${'6285624823115'.split('@')[0]}
 
 Terimakasih Juga Untuk Kang Banned:
 ➸ 0@s.whatsapp.net
@@ -21,6 +21,7 @@ Terimakasih Juga Untuk Kang Banned:
 • God
 • My ortu
 • King Of Bear ( Me )
+• Irfaan Official 
 • Nurutomo
 • Adiwajshing
 • Ariffb
