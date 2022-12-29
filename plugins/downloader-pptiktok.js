@@ -7,6 +7,6 @@ conn.sendFile(m.chat, res, 'error.jpg', `*[ ✔ ] Sukses Mengambil Foto User ${t
 handler.help = ['tiktokfoto'].map(v => v + ' <user>')
 handler.tags = ['downloader']
 handler.command = /^(p((rofilet(iktok|t)|pt(iktok|t))|ptik)|t(ik(tokp(rofile|p)|pp)|tp(rofile|p)))$/i
-handler.level = 50
+handler.level = 8
 
 export default handler
