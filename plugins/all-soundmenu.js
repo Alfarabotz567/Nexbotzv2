@@ -22,7 +22,7 @@ const sections = [
    {
 	title: `${htjava} SOUND MENU –––––––––·•`,
 	rows: [
-    {title: "Sound Ultah", rowId: ".NexBotz"},
+    {title: "Sound Ultah", rowId: ".Alfarabotz"},
 	{title: "Sound 1", rowId: ".sound1"},
     {title: "Sound 2", rowId: ".sound2"},
 	{title: "Sound 3", rowId: ".sound3"},
