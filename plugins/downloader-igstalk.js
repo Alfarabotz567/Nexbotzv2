@@ -24,6 +24,6 @@ handler.help = ['igstalk'].map(v => v + ' <username>')
 handler.tags = ['downloader']
 
 handler.command = /^(igstalk)$/i
-handler.level = 40
+handler.level = 7
 
 export default handler
