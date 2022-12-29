@@ -1,12 +1,13 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
-│ • *Telkomsel:* [${global.ppulsa2}]
+│ • *Im3:* [${global.ppulsa}]
+│ • *Im3:* [${global.ppulsa2}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
 │ • *Dana:* [${global.pdana}]
+│ • *Saweria:* [${global.psaweria}]
 ❏────
 `
 const templateButtons = [
