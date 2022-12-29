@@ -114,7 +114,7 @@ global.titlebot = `Alfarabotz-MD | ʙʏ ${global.nameown}`
 global.author = 'Irfaan Official' 
 global.packname = 'Irfaan Official'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = '23 Oktober 2009'
 
 
 /*============== LOGO ==============*/
