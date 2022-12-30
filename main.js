@@ -1,6 +1,8 @@
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 import './config.js';
 
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
+
 import { createRequire } from "module"; // Bring in the ability to create the 'require' method
 import path, { join } from 'path'
 import { fileURLToPath, pathToFileURL } from 'url'
